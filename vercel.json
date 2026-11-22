@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://web-13oct-ob55.vercel.app/$1"
+      "destination": "http://51.83.6.5:20076/$1"
     }
   ]
 }
